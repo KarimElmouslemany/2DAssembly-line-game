@@ -1,6 +1,4 @@
-# project
-location with all the projects that I have made. 
-Project list:
-
-processing 2D assembly game
-E-commerce website. 
+#About Project 
+A 2D line assembly game made in Processing Java 
+TO RUN THE CODE:
+Need processing.exe to run the code. 
